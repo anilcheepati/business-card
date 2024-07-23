@@ -64,6 +64,6 @@ To run this project locally, ensure you have the following:
 
 2: Connect to your Github
 
-3: 
+3: Then add your repo into Deployment then it will generate a netlify link , copy that and paste it in chrome is can see your app.
 
 
